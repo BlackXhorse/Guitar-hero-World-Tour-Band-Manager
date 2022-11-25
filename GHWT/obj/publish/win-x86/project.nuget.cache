@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "o8BsvrdiOASaJGWiYoW2Xk/O34ageqgmmLPHjpSVenOyFrvCeNDZxdTj/TMw2JGiahXRK4kbWqDbC64Y4l90vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Black\\source\\repos\\GHWT\\GHWT\\GHWT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Black\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.26\\microsoft.netcore.app.runtime.win-x86.3.1.26.nupkg.sha512",
+    "C:\\Users\\Black\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.26\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.26.nupkg.sha512",
+    "C:\\Users\\Black\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.26\\microsoft.aspnetcore.app.runtime.win-x86.3.1.26.nupkg.sha512"
+  ],
+  "logs": []
+}
